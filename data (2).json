@@ -1,0 +1,87 @@
+{
+  "itinerari": [
+    {
+      "id": "magnani_roma",
+      "nome": "Nannarella: Il cuore di Roma",
+      "sottotitolo": "Sulle tracce di Anna Magnani",
+      "tema": "Cinema",
+      "descrizione": "Un itinerario intimo nel cuore del centro storico per scoprire la donna dietro la diva. Dalla sua casa di fronte al Gesù fino al set naturale di Campo de' Fiori.",
+      "durata_totale_ore": 2,
+      "distanza_totale_km": 1.5,
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "piazza_gesu",
+          "coordinate": [41.8958, 12.4785],
+          "nome": "Palazzo Altieri",
+          "descrizione_breve": "La dimora privata della Regina di Roma.",
+          "orario_consigliato": "10:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 30,
+          "storia": "Qui Anna viveva la sua quotidianità, lontana dai riflettori ma immersa nel caos vitale della sua città.",
+          "curiosita": "Si dice che Anna amasse affacciarsi dai balconi per osservare il movimento della piazza.",
+          "esperienza_culturale": {
+            "atmosfera": {
+              "luce": "Nitida",
+              "emozione_target": "Rispetto"
+            }
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "piazza_minerva",
+          "coordinate": [41.8979, 12.4776],
+          "nome": "Piazza della Minerva",
+          "descrizione_breve": "Il luogo dell'ultimo grande applauso.",
+          "orario_consigliato": "15:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 20,
+          "storia": "Nel 1973, migliaia di persone invasero questa piazza per l'ultimo saluto a Nannarella.",
+          "curiosita": "Il legame tra l'attrice e il popolo romano si consacrò definitivamente in questa piazza.",
+          "esperienza_culturale": {
+            "atmosfera": {
+              "luce": "Soffusa",
+              "emozione_target": "Solennità"
+            }
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "largo_argentina",
+          "coordinate": [41.8948, 12.4768],
+          "nome": "Largo di Torre Argentina",
+          "descrizione_breve": "L'Area Sacra dei gatti e di Anna.",
+          "orario_consigliato": "18:00",
+          "momento_giornata": "tramonto",
+          "durata_visita_min": 40,
+          "storia": "La diva da Oscar che ogni sera portava il cibo ai gatti randagi tra le rovine romane.",
+          "curiosita": "Anna rivendicava con orgoglio il titolo di 'gattara'.",
+          "esperienza_culturale": {
+            "atmosfera": {
+              "luce": "Dorata",
+              "emozione_target": "Tenerezza"
+            }
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "campo_fiori",
+          "coordinate": [41.8956, 12.4722],
+          "nome": "Campo de' Fiori",
+          "descrizione_breve": "Il set della vita vera.",
+          "orario_consigliato": "21:00",
+          "momento_giornata": "sera",
+          "durata_visita_min": 60,
+          "storia": "Il mercato che fu set del film 'Campo de' Fiori', dove Anna divenne eterna.",
+          "curiosita": "Qui la romanità non è recitata, è incarnata.",
+          "esperienza_culturale": {
+            "atmosfera": {
+              "luce": "Vibrante",
+              "emozione_target": "Appartenenza"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
