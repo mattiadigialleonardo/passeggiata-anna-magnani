@@ -1,0 +1,338 @@
+{
+  "itinerari": [
+    {
+      "id": "respighi_fontane",
+      "nome": "Le Fontane di Roma",
+      "sottotitolo": "Un poema sinfonico di Ottorino Respighi",
+      "personaggio": {
+        "nome": "Ottorino Respighi",
+        "anni": "1879-1936",
+        "professione": "Compositore",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Compositore italiano del periodo tardo-romantico, celebre per la trilogia romana: Fontane di Roma (1916), Pini di Roma (1924) e Feste Romane (1928). Le sue opere evocano paesaggi sonori che trasformano la città eterna in musica.",
+        "immagine": "assets/personaggi/respighi.jpg",
+        "opere_correlate": [
+          "Fontane di Roma (1916)",
+          "Pini di Roma (1924)",
+          "Feste Romane (1928)"
+        ]
+      },
+      "tema": "Musica Classica - Poema Sinfonico",
+      "categoria": "Arte e Cultura",
+      "durata_totale_ore": 8,
+      "difficolta": "facile",
+      "immagine_copertina": "https://images.unsplash.com/photo-1512100356132-db7f5c42f02e?q=80&w=400&h=200&auto=format&fit=crop",
+      "distanza_totale_km": 6.5,
+      "periodo_consigliato": "Primavera/Autunno (temperature miti)",
+      "stagione_migliore": ["marzo", "aprile", "maggio", "settembre", "ottobre"],
+      "descrizione": "Segui le note del poema sinfonico di Respighi attraverso le fontane più iconiche di Roma. Ogni tappa corrisponde a un movimento dell'opera, vissuto nel momento della giornata che il compositore ha immortalato in musica. Un'esperienza che unisce arte, storia e suono.",
+      "note_logistiche": "Iniziare all'alba richiede sveglia anticipata. Portare acqua, cappello e scarpe comode. Prevedere pause caffè tra le tappe. La fontana di Villa Giulia è nel Museo Etrusco (verificare orari apertura).",
+      "accessibilita": "Tutte le tappe sono accessibili con mezzi pubblici. Metro A per Villa Giulia e Villa Medici, a piedi per Tritone e Trevi.",
+      "costo_stimato": "Gratuito (eccetto ingresso Villa Giulia: €8)",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "villa_giulia_fontana",
+          "orario_consigliato": "06:00",
+          "momento_giornata": "alba",
+          "durata_visita_min": 45,
+          "coordinate": [41.9167, 12.4792],
+          "nome": "Fontana di Villa Giulia",
+          "descrizione_breve": "Nel cuore del Museo Etrusco, questa fontana rinascimentale accoglie l'alba con un canto d'acqua.",
+          "indicazioni_arrivo": "Metro A Flaminio + Tram 2, oppure Bus 926. Aprire cancello principale Villa Giulia alle 6:00 (verificare possibilità accesso anticipato).",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "I. La fontana di Valle Giulia all'alba",
+              "brano_completo": "Fontane di Roma - I movimento",
+              "compositore": "Ottorino Respighi",
+              "durata_sec": 280,
+              "tonalita": "Si bemolle maggiore",
+              "organico": "Orchestra sinfonica con arpa, celesta, pianoforte",
+              "anno_composizione": 1916,
+              "descrizione_musicale": "Il movimento si apre nel silenzio dell'alba, con delicate melodie pastorali affidate ai legni. Flauti e clarinetti imitano il canto degli uccelli che si svegliano. L'arpa evoca lo scorrere dell'acqua mentre la celesta crea un'atmosfera cristallina. È la Roma che si risveglia, poetica e intatta.",
+              "spotify_url": "https://open.spotify.com/track/example",
+              "youtube_url": "https://www.youtube.com/watch?v=example",
+              "note_ascolto": "Ascoltare guardando l'acqua della fontana per sincronizzare suono visivo e sonoro."
+            },
+            "letteratura": {
+              "citazione": "L'alba su Roma è un dipinto che si rinnova ogni mattino, quando la luce dorata accarezza i marmi antichi e le fontane cominciano il loro canto diurno.",
+              "autore": "Gabriele D'Annunzio",
+              "opera": "Il Piacere",
+              "anno": 1889,
+              "contesto": "D'Annunzio descrive il risveglio di Roma vista dalle alture di Villa Medici, tema che risuona con l'alba respighiana."
+            },
+            "atmosfera": {
+              "momento": "alba",
+              "luce": "dorata e radente, con ombre lunghe",
+              "suoni_ambiente": [
+                "canto degli uccelli (merli, passeri)",
+                "scroscio d'acqua della fontana",
+                "silenzio urbano quasi totale"
+              ],
+              "temperatura_stimata": "15-18°C",
+              "affollamento": "minimo (orario pre-apertura)",
+              "consiglio_fotografico": "Luce perfetta per foto controluce della fontana. Usare lunghe esposizioni per effetto seta dell'acqua.",
+              "emozione_target": "Contemplazione, rinascita, purezza"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Rinascimento",
+              "architetti": ["Bartolomeo Ammannati", "Giacomo Barozzi da Vignola"],
+              "anno_costruzione": "1550-1555",
+              "committente": "Papa Giulio III",
+              "descrizione": "Villa suburbana con ninfeo-fontana che celebra l'acqua come elemento vitale."
+            }
+          },
+          "storia": "Villa Giulia fu costruita come residenza estiva di Papa Giulio III del Monte. La fontana del ninfeo è un capolavoro manieristico che anticipa il Barocco.",
+          "curiosita": "Respighi visitò questa villa numerose volte agli albori del XX secolo. Si dice che l'idea della composizione gli venne proprio ascoltando l'acqua della fontana durante un'alba primaverile del 1914.",
+          "metadata": {
+            "accessibilita": "ingresso a pagamento (€8)",
+            "orari_standard": "09:00-20:00 (verificare aperture straordinarie per alba)",
+            "servizi": ["toilette", "bookshop", "caffetteria"]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "tritone_fontana",
+          "orario_consigliato": "10:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 30,
+          "coordinate": [41.9035, 12.4894],
+          "nome": "Fontana del Tritone",
+          "descrizione_breve": "Il Tritone di Bernini emerge possente nel cuore di Piazza Barberini, simbolo della Roma barocca al suo apice.",
+          "indicazioni_arrivo": "Da Villa Giulia: Metro A Flaminio → Barberini (3 fermate). Oppure a piedi 25 min attraverso Villa Borghese.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "25 min",
+            "metro": "8 min + attese",
+            "distanza_km": 2.1
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "II. La fontana del Tritone al mattino",
+              "brano_completo": "Fontane di Roma - II movimento",
+              "compositore": "Ottorino Respighi",
+              "durata_sec": 220,
+              "tonalita": "Re maggiore",
+              "descrizione_musicale": "Un'esplosione di forza e vitalità. Le trombe squillanti annunciano la potenza del Tritone, mentre gli archi impetuosi evocano i cavalli marini. È la Roma monumentale che si impone, energica e trionfale. I corni richiamano gli echi di fanfare barocche.",
+              "strumenti_protagonisti": ["trombe", "corni", "tromboni", "timpani"],
+              "carattere": "Maestoso, trionfale, eroico",
+              "spotify_url": "https://open.spotify.com/track/example",
+              "youtube_url": "https://www.youtube.com/watch?v=example",
+              "note_ascolto": "Volume alto! Il movimento richiede potenza sonora per rendere la maestosità della scultura berniniana."
+            },
+            "letteratura": {
+              "citazione": "Il Tritone sembra danzare sull'acqua, un dio pagano che sfida la Roma cristiana con la sua nuda bellezza muscolare.",
+              "autore": "Henry James",
+              "opera": "Italian Hours",
+              "anno": 1909,
+              "contesto": "James descrive il contrasto tra sacro e profano nella Roma barocca."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "brillante e nitida",
+              "suoni_ambiente": [
+                "traffico moderato",
+                "getto d'acqua potente del Tritone",
+                "voci di passanti e turisti"
+              ],
+              "temperatura_stimata": "20-23°C",
+              "affollamento": "moderato (turisti mattinieri)",
+              "consiglio_fotografico": "Inquadrare il Tritone dal basso per enfatizzare la sua imponenza.",
+              "emozione_target": "Energia, vitalità, potenza"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco",
+              "scultore": "Gian Lorenzo Bernini",
+              "anno_costruzione": "1642-1643",
+              "committente": "Papa Urbano VIII Barberini",
+              "materiali": "Travertino e peperino",
+              "altezza_m": 15,
+              "descrizione": "Quattro delfini sorreggono una conchiglia aperta su cui siede il Tritone che soffia nella conchiglia marina, da cui zampilla l'acqua."
+            }
+          },
+          "storia": "Commissionata dalla famiglia Barberini per celebrare la costruzione dell'Acquedotto dell'Acqua Felice. Il Tritone rappresenta il dominio papale sulle acque.",
+          "curiosita": "Le api scolpite alla base sono il simbolo araldico dei Barberini. La fontana fu una delle prime di Bernini a usare figure mitologiche in modo così dinamico e teatrale.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["bar circostanti", "metro nelle vicinanze"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "trevi_fontana",
+          "orario_consigliato": "12:30",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 60,
+          "coordinate": [41.9009, 12.4833],
+          "nome": "Fontana di Trevi",
+          "descrizione_breve": "La più celebre fontana al mondo, uno scenario barocco che Respighi dipinge nel momento di massimo splendore luminoso.",
+          "indicazioni_arrivo": "Da Piazza Barberini: 10 min a piedi (850m) scendendo per Via del Tritone.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "10 min",
+            "distanza_km": 0.85
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "III. La fontana di Trevi al meriggio",
+              "brano_completo": "Fontane di Roma - III movimento",
+              "compositore": "Ottorino Respighi",
+              "durata_sec": 320,
+              "tonalita": "Mi bemolle maggiore",
+              "descrizione_musicale": "Il movimento più celebre e trionfale. Una fanfara di corni e trombe annuncia la magnificenza di Nettuno. L'orchestra intera esplode in un crescendo che evoca le cascate d'acqua. È la Roma imperiale che rinasce nel Barocco, potente e immortale. Il tema principale è diventato un inno alla città eterna.",
+              "citazioni_famose": "Usato in film e pubblicità come simbolo di Roma",
+              "carattere": "Grandioso, imperiale, celebrativo",
+              "spotify_url": "https://open.spotify.com/track/example",
+              "youtube_url": "https://www.youtube.com/watch?v=example",
+              "note_ascolto": "Ascoltare con cuffie di qualità per cogliere i dettagli orchestrali. Il climax avviene a 2:45 minuti."
+            },
+            "letteratura": {
+              "citazione": "Trevi non è una fontana: è un teatro, un poema, un miracolo barocco dove l'acqua diventa architettura e l'architettura diventa sogno.",
+              "autore": "Federico Fellini",
+              "opera": "Intervista su La Dolce Vita",
+              "anno": 1960,
+              "contesto": "Fellini spiega perché ha scelto Trevi per l'iconica scena con Anita Ekberg."
+            },
+            "cinema": {
+              "film": "La Dolce Vita",
+              "regista": "Federico Fellini",
+              "anno": 1960,
+              "scena": "Anita Ekberg nella fontana",
+              "descrizione": "La scena più iconica del cinema italiano, che ha reso Trevi immortale nell'immaginario globale."
+            },
+            "atmosfera": {
+              "momento": "mezzogiorno",
+              "luce": "zenitale, ombre minime, massima brillantezza del marmo",
+              "suoni_ambiente": [
+                "fragor d'acqua delle cascate",
+                "voci di centinaia di turisti",
+                "musica di strada (artisti)",
+                "lancio di monete"
+              ],
+              "temperatura_stimata": "25-28°C (caldo pieno)",
+              "affollamento": "molto alto (picco turistico)",
+              "consiglio_fotografico": "Difficile isolare la fontana dalla folla. Provare foto dall'alto (scale laterali) o dettagli scultorei.",
+              "emozione_target": "Stupore, meraviglia, euforia"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco Tardo",
+              "architetto": "Nicola Salvi",
+              "scultori": ["Pietro Bracci (Nettuno)", "Filippo della Valle"],
+              "anno_costruzione": "1732-1762",
+              "committente": "Papa Clemente XII",
+              "dimensioni": "26m altezza x 49m larghezza",
+              "acqua_fonte": "Acquedotto Acqua Vergine (19 a.C.)",
+              "descrizione": "Palazzo-fontana che trasforma la facciata posteriore di Palazzo Poli in un'allegoria del dominio sulle acque."
+            }
+          },
+          "storia": "La fontana sorge sul punto terminale dell'Acquedotto dell'Acqua Vergine, costruito da Agrippa nel 19 a.C. Il progetto fu vinto da Nicola Salvi nel 1732 dopo un concorso che vide la partecipazione di Bernini (rifiutato).",
+          "curiosita": "Si stima che ogni anno vengano gettate monete per circa 1,5 milioni di euro, devolute alla Caritas. La tradizione di lanciare la moneta di spalle garantirebbe il ritorno a Roma. Nel 2016 Fendi ha finanziato un restauro da €2,2 milioni.",
+          "leggende": [
+            "Lanciare 1 moneta: ritornerai a Roma",
+            "Lanciare 2 monete: troverai l'amore",
+            "Lanciare 3 monete: ti sposerai"
+          ],
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["gelaterie famose", "ristoranti", "negozi di souvenir"],
+            "warning": "Attenzione ai borseggiatori in zona affollata"
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "villa_medici_fontana",
+          "orario_consigliato": "18:00",
+          "momento_giornata": "tramonto",
+          "durata_visita_min": 45,
+          "coordinate": [41.9077, 12.4823],
+          "nome": "Fontana di Villa Medici",
+          "descrizione_breve": "Nel giardino dell'Accademia di Francia, la fontana accoglie il tramonto in un abbraccio di silenzio e bellezza decadente.",
+          "indicazioni_arrivo": "Da Trevi: Metro A Spagna → Flaminio (2 fermate) + 10 min a piedi su per Pincio. Oppure 25 min a piedi attraverso Via del Corso e scalinata Trinità dei Monti.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "25 min",
+            "metro_piedi": "18 min",
+            "distanza_km": 1.8
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "IV. La fontana di Villa Medici al tramonto",
+              "brano_completo": "Fontane di Roma - IV movimento",
+              "compositore": "Ottorino Respighi",
+              "durata_sec": 300,
+              "tonalita": "La minore → La maggiore",
+              "descrizione_musicale": "Il movimento più malinconico e introspettivo. Archi in pianissimo evocano la luce dorata del tramonto che si spegne lentamente. Il canto notturno degli uccelli (flauti e clarinetti) si mescola al suono delle campane in lontananza. È la Roma che si addormenta, poetica e malinconica. Il finale si dissolve nel silenzio, come l'ultimo raggio di sole che scompare dietro San Pietro.",
+              "carattere": "Nostalgico, contemplativo, crepuscolare",
+              "citazioni_famose": "Considerato il movimento più poetico di tutta la trilogia romana di Respighi",
+              "spotify_url": "https://open.spotify.com/track/example",
+              "youtube_url": "https://www.youtube.com/watch?v=example",
+              "note_ascolto": "Ascoltare guardando il tramonto. Il silenzio finale va rispettato per almeno 30 secondi."
+            },
+            "letteratura": {
+              "citazione": "Dal Pincio, Roma si stende come un libro aperto che il tramonto sfoglia pagina dopo pagina, fino a chiudersi nella notte.",
+              "autore": "Stendhal",
+              "opera": "Promenades dans Rome",
+              "anno": 1829,
+              "contesto": "Stendhal descrive il tramonto visto da Villa Medici come uno dei momenti più poetici della sua vita."
+            },
+            "atmosfera": {
+              "momento": "tramonto",
+              "luce": "dorata, arancione, poi violacea",
+              "suoni_ambiente": [
+                "canto degli uccelli al crepuscolo",
+                "campane di chiese in lontananza",
+                "scroscio delicato della fontana",
+                "silenzio contemplativo"
+              ],
+              "temperatura_stimata": "18-22°C (temperatura ideale)",
+              "affollamento": "basso (area meno turistica)",
+              "vista_panoramica": "Su Roma, San Pietro, Gianicolo",
+              "consiglio_fotografico": "Golden hour perfetta. Foto panoramiche di Roma dal Pincio. Silhouette della fontana contro il tramonto.",
+              "emozione_target": "Nostalgia, pace, contemplazione"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Manierismo/Rinascimento",
+              "architetto": "Bartolomeo Ammannati",
+              "anno_costruzione": "1576",
+              "committente": "Cardinale Ferdinando de' Medici",
+              "descrizione": "Villa rinascimentale che ospita l'Accademia di Francia dal 1803. I giardini sono tra i più romantici di Roma.",
+              "artisti_ospitati": ["Berlioz", "Debussy", "Ingres", "Fragonard"]
+            }
+          },
+          "storia": "Villa Medici fu acquistata dal cardinale Ferdinando de' Medici nel 1576. Dal 1803 ospita l'Accademia di Francia, prestigiosa istituzione che accoglie artisti in residenza. Molti compositori francesi hanno soggiornato qui, inclusi Berlioz e Debussy.",
+          "curiosita": "Respighi era amico di molti artisti dell'Accademia. Si narra che il movimento del tramonto sia stato composto proprio in questo giardino, durante una visita al compositore francese Alfredo Casella nel 1915. Debussy, che soggiornò qui nel 1885, compose anch'egli opere ispirate alle fontane romane.",
+          "connessione_respighi": "Respighi frequentava i salotti musicali dell'Accademia. La scelta di chiudere il poema sinfonico proprio qui non è casuale: rappresenta il ritorno alla quiete dopo il frastuono della città.",
+          "metadata": {
+            "accessibilita": "ingresso su prenotazione (€12) o gratuito durante eventi",
+            "orari_standard": "Visite guidate Mar-Dom 10:00-18:30",
+            "orari_speciali_tramonto": "Verificare aperture serali estive",
+            "servizi": ["caffetteria", "bookshop", "mostre temporanee"]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile (fontanelle romane lungo il percorso)",
+        "Scarpe comode obbligatorie (6.5 km a piedi)",
+        "Cappello e crema solare per mezzogiorno",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Prenotare in anticipo Villa Giulia e Villa Medici",
+        "Considerare pausa pranzo dopo Tritone (molti ristoranti in zona)"
+      ],
+      "migliore_periodo_anno": "Marzo-Maggio o Settembre-Ottobre (luce migliore, temperature miti)",
+      "sconsigliato": ["Piena estate (troppo caldo a mezzogiorno)", "Gennaio-Febbraio (alba troppo tarda)"],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "Crema solare",
+        "Snack energetici",
+        "Batteria portatile"
+      ]
+    }
+  ]
+}
